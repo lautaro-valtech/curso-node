@@ -1,10 +1,10 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "Lautaro Coria",
   "dependencies": {
     "express": "^4.14.0"
   },
   "main": "server.js",
-  "author": "Lautaro Coria",
   "scripts": {
     "start": "node server.js"
   },
